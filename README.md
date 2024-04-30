@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Studio**
 
-- 💬 Ask me about **Android, C, C++, Java**
+- 💬 Ask me about **Android, C, C++, Java, HTML, CSS**
 
 - 📫 How to reach me **sam.an.vns6@gmail.com**
 
