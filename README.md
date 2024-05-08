@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Developing the App**
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Android, C, C++, Java, Kotlin, HTML, CSS**
 
