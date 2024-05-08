@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataussamdansari&label=Profile%20views&color=0e75b6&style=flat" alt="ataussamdansari" /> </p>
 
-- 🔭 I’m currently working on **Learn C Language**
+- 🔭 I’m currently working on **Developing the App**
 
 - 🌱 I’m currently learning **Android Studio**
 
